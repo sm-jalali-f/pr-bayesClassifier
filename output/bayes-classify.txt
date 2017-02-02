@@ -1,0 +1,691 @@
+memory usage: 92956.0 KB
+================= landa=0.01 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.02 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 0 ms
+memory usage: 92956.0 KB
+================= landa=0.03 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.04 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.05 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.06 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.07 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.08 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.09 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.1 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.11 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.12 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.13 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.14 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 2 ms
+memory usage: 92956.0 KB
+================= landa=0.15 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.16 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.17 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.18 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.19 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 2 ms
+memory usage: 92956.0 KB
+================= landa=0.2 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.21 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.22 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.23 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.24 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.25 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.26 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.27 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.28 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 2 ms
+memory usage: 92956.0 KB
+================= landa=0.29 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.3 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.31 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 2 ms
+memory usage: 92956.0 KB
+================= landa=0.32 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.33 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.34 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.35 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.36 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.37 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.38 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.39 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.4 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 2 ms
+memory usage: 92956.0 KB
+================= landa=0.41 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.42 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.43 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.44 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.45 =================
+correct classify count = 7846.0
+accuracy = 78.46%
+confusion matrix : 
+[[1501, 191, 15, 91, 202, 0], [1, 1690, 37, 13, 259, 0], [63, 187, 1392, 166, 192, 0], [33, 195, 52, 1445, 275, 0], [12, 110, 27, 33, 1818, 0]]
+classify time: 11359 ms
+memory usage: 92956.0 KB
+================= landa=0.46 =================
+correct classify count = 7052.0
+accuracy = 70.52%
+confusion matrix : 
+[[1517, 37, 9, 119, 318, 0], [2, 1292, 24, 12, 670, 0], [68, 115, 1195, 137, 485, 0], [38, 151, 46, 1412, 353, 0], [22, 251, 34, 57, 1636, 0]]
+classify time: 11997 ms
+memory usage: 92956.0 KB
+================= landa=0.47 =================
+correct classify count = 6536.0
+accuracy = 65.36%
+confusion matrix : 
+[[1367, 19, 14, 111, 489, 0], [5, 1293, 35, 12, 655, 0], [57, 80, 998, 140, 725, 0], [30, 167, 46, 1385, 372, 0], [28, 310, 78, 91, 1493, 0]]
+classify time: 12044 ms
+memory usage: 92956.0 KB
+================= landa=0.48 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 2 ms
+memory usage: 92956.0 KB
+================= landa=0.49 =================
+correct classify count = 6041.0
+accuracy = 60.41%
+confusion matrix : 
+[[959, 19, 38, 112, 872, 0], [1, 1386, 28, 10, 575, 0], [32, 159, 1030, 136, 643, 0], [29, 202, 33, 1276, 460, 0], [29, 445, 31, 105, 1390, 0]]
+classify time: 11847 ms
+memory usage: 92956.0 KB
+================= landa=0.5 =================
+correct classify count = 0
+accuracy = 0%
+confusion matrix : 
+[[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+classify time: 1 ms
+memory usage: 92956.0 KB
+================= landa=0.51 =================
+correct classify count = 8263.0
+accuracy = 82.63%
+confusion matrix : 
+[[1702, 51, 19, 139, 89, 0], [4, 1807, 42, 9, 138, 0], [66, 147, 1499, 180, 108, 0], [49, 218, 56, 1551, 126, 0], [14, 220, 27, 35, 1704, 0]]
+classify time: 11645 ms
+memory usage: 92956.0 KB
+================= landa=0.52 =================
+correct classify count = 6067.0
+accuracy = 60.67%
+confusion matrix : 
+[[1246, 36, 17, 42, 659, 0], [3, 1131, 40, 13, 813, 0], [59, 102, 980, 138, 721, 0], [31, 163, 41, 1052, 713, 0], [15, 201, 42, 84, 1658, 0]]
+classify time: 11669 ms
+memory usage: 92956.0 KB
+================= landa=0.53 =================
+correct classify count = 7987.0
+accuracy = 79.87%
+confusion matrix : 
+[[1578, 80, 20, 88, 234, 0], [2, 1764, 33, 9, 192, 0], [93, 203, 1357, 145, 202, 0], [48, 221, 54, 1540, 137, 0], [16, 186, 24, 26, 1748, 0]]
+classify time: 11694 ms
+memory usage: 92956.0 KB
+================= landa=0.54 =================
+correct classify count = 8134.0
+accuracy = 81.34%
+confusion matrix : 
+[[1651, 123, 27, 102, 97, 0], [3, 1806, 35, 10, 146, 0], [53, 146, 1397, 219, 185, 0], [45, 212, 57, 1564, 122, 0], [10, 208, 33, 33, 1716, 0]]
+classify time: 11619 ms
+memory usage: 92956.0 KB
+================= landa=0.55 =================
+correct classify count = 8244.0
+accuracy = 82.44%
+confusion matrix : 
+[[1774, 58, 23, 87, 58, 0], [6, 1805, 21, 22, 146, 0], [109, 197, 1396, 154, 144, 0], [39, 236, 57, 1564, 104, 0], [9, 207, 23, 56, 1705, 0]]
+classify time: 11654 ms
+memory usage: 92956.0 KB
+================= landa=0.56 =================
+correct classify count = 8151.0
+accuracy = 81.51%
+confusion matrix : 
+[[1654, 36, 40, 177, 93, 0], [2, 1800, 33, 15, 150, 0], [70, 170, 1393, 275, 92, 0], [42, 224, 57, 1557, 120, 0], [13, 169, 38, 33, 1747, 0]]
+classify time: 11630 ms
+memory usage: 92956.0 KB
+================= landa=0.57 =================
+correct classify count = 7915.0
+accuracy = 79.15%
+confusion matrix : 
+[[1574, 141, 29, 110, 146, 0], [4, 1704, 41, 15, 236, 0], [57, 158, 1361, 156, 268, 0], [38, 178, 72, 1549, 163, 0], [16, 158, 52, 47, 1727, 0]]
+classify time: 11715 ms
+memory usage: 92956.0 KB
+================= landa=0.58 =================
+correct classify count = 7823.0
+accuracy = 78.23%
+confusion matrix : 
+[[1585, 23, 83, 90, 219, 0], [2, 1616, 26, 9, 347, 0], [57, 116, 1408, 116, 303, 0], [38, 183, 57, 1447, 275, 0], [14, 160, 31, 28, 1767, 0]]
+classify time: 11884 ms
+memory usage: 92956.0 KB
+================= landa=0.59 =================
+correct classify count = 8410.0
+accuracy = 84.1%
+confusion matrix : 
+[[1699, 39, 33, 87, 142, 0], [2, 1836, 42, 9, 111, 0], [73, 148, 1571, 135, 73, 0], [43, 233, 80, 1544, 100, 0], [15, 171, 26, 28, 1760, 0]]
+classify time: 12168 ms
+memory usage: 92956.0 KB
+================= landa=0.6 =================
+correct classify count = 8393.0
+accuracy = 83.93%
+confusion matrix : 
+[[1664, 45, 90, 134, 67, 0], [3, 1837, 26, 24, 110, 0], [78, 167, 1514, 190, 51, 0], [48, 197, 59, 1608, 88, 0], [13, 160, 20, 37, 1770, 0]]
+classify time: 12126 ms
+memory usage: 92956.0 KB
+================= landa=0.61 =================
+correct classify count = 8067.0
+accuracy = 80.67%
+confusion matrix : 
+[[1618, 41, 96, 133, 112, 0], [5, 1816, 32, 14, 133, 0], [79, 201, 1404, 172, 144, 0], [51, 217, 72, 1562, 98, 0], [14, 251, 26, 42, 1667, 0]]
+classify time: 12077 ms
+memory usage: 92956.0 KB
+================= landa=0.62 =================
+correct classify count = 8290.0
+accuracy = 82.9%
+confusion matrix : 
+[[1632, 69, 76, 205, 18, 0], [8, 1820, 37, 22, 113, 0], [58, 144, 1483, 271, 44, 0], [40, 207, 66, 1600, 87, 0], [14, 169, 23, 39, 1755, 0]]
+classify time: 11748 ms
+memory usage: 92956.0 KB
+================= landa=0.63 =================
+correct classify count = 8230.0
+accuracy = 82.3%
+confusion matrix : 
+[[1613, 34, 125, 104, 124, 0], [1, 1789, 52, 24, 134, 0], [88, 129, 1494, 207, 82, 0], [43, 185, 86, 1567, 119, 0], [20, 137, 29, 47, 1767, 0]]
+classify time: 12365 ms
+memory usage: 92956.0 KB
+================= landa=0.64 =================
+correct classify count = 8085.0
+accuracy = 80.85%
+confusion matrix : 
+[[1686, 40, 60, 147, 67, 0], [2, 1743, 32, 19, 204, 0], [78, 142, 1380, 175, 225, 0], [44, 211, 73, 1555, 117, 0], [11, 187, 43, 38, 1721, 0]]
+classify time: 12463 ms
+memory usage: 92956.0 KB
+================= landa=0.65 =================
+correct classify count = 8233.0
+accuracy = 82.33%
+confusion matrix : 
+[[1655, 111, 91, 94, 49, 0], [2, 1755, 103, 18, 122, 0], [64, 188, 1497, 199, 52, 0], [44, 198, 78, 1530, 150, 0], [15, 131, 26, 32, 1796, 0]]
+classify time: 12579 ms
+memory usage: 92956.0 KB
+================= landa=0.66 =================
+correct classify count = 8264.0
+accuracy = 82.64%
+confusion matrix : 
+[[1692, 64, 101, 99, 44, 0], [10, 1794, 40, 16, 140, 0], [75, 189, 1467, 181, 88, 0], [54, 209, 75, 1552, 110, 0], [14, 166, 22, 39, 1759, 0]]
+classify time: 11644 ms
+memory usage: 92956.0 KB
+================= landa=0.67 =================
+correct classify count = 8073.0
+accuracy = 80.73%
+confusion matrix : 
+[[1559, 144, 102, 83, 112, 0], [1, 1799, 51, 11, 138, 0], [92, 219, 1389, 224, 76, 0], [38, 194, 95, 1555, 118, 0], [13, 156, 30, 30, 1771, 0]]
+classify time: 11801 ms
+memory usage: 92956.0 KB
+================= landa=0.68 =================
+correct classify count = 8426.0
+accuracy = 84.26%
+confusion matrix : 
+[[1745, 35, 46, 112, 62, 0], [3, 1811, 47, 15, 124, 0], [68, 137, 1571, 139, 85, 0], [41, 212, 91, 1521, 135, 0], [11, 153, 19, 39, 1778, 0]]
+classify time: 11604 ms
+memory usage: 92956.0 KB
+================= landa=0.69 =================
+correct classify count = 8249.0
+accuracy = 82.49%
+confusion matrix : 
+[[1594, 23, 92, 199, 92, 0], [3, 1805, 38, 23, 131, 0], [86, 110, 1503, 245, 56, 0], [54, 198, 64, 1597, 87, 0], [14, 159, 26, 51, 1750, 0]]
+classify time: 11554 ms
+memory usage: 92956.0 KB
+================= landa=0.7 =================
+correct classify count = 8194.0
+accuracy = 81.94%
+confusion matrix : 
+[[1649, 54, 80, 119, 98, 0], [3, 1815, 26, 15, 141, 0], [84, 204, 1451, 174, 87, 0], [49, 216, 60, 1581, 94, 0], [17, 228, 18, 39, 1698, 0]]
+classify time: 11611 ms
+memory usage: 92956.0 KB
+================= landa=0.71 =================
+correct classify count = 8284.0
+accuracy = 82.84%
+confusion matrix : 
+[[1717, 72, 24, 127, 60, 0], [7, 1812, 45, 7, 129, 0], [70, 195, 1525, 157, 53, 0], [60, 261, 87, 1490, 102, 0], [16, 188, 16, 40, 1740, 0]]
+classify time: 11581 ms
+memory usage: 92956.0 KB
+================= landa=0.72 =================
+correct classify count = 8016.0
+accuracy = 80.16%
+confusion matrix : 
+[[1536, 150, 119, 116, 79, 0], [3, 1810, 46, 21, 120, 0], [66, 166, 1414, 286, 68, 0], [41, 214, 83, 1580, 82, 0], [17, 218, 24, 65, 1676, 0]]
+classify time: 11600 ms
+memory usage: 92956.0 KB
+================= landa=0.73 =================
+correct classify count = 8021.0
+accuracy = 80.21%
+confusion matrix : 
+[[1566, 160, 38, 122, 114, 0], [3, 1813, 51, 10, 123, 0], [89, 256, 1348, 223, 84, 0], [50, 208, 78, 1566, 98, 0], [13, 196, 25, 38, 1728, 0]]
+classify time: 11576 ms
+memory usage: 92956.0 KB
+================= landa=0.74 =================
+correct classify count = 8226.0
+accuracy = 82.26%
+confusion matrix : 
+[[1671, 142, 47, 99, 41, 0], [3, 1791, 33, 35, 138, 0], [90, 188, 1444, 222, 56, 0], [58, 183, 104, 1551, 104, 0], [21, 150, 19, 41, 1769, 0]]
+classify time: 11642 ms
+memory usage: 92956.0 KB
+================= landa=0.75 =================
+correct classify count = 7965.0
+accuracy = 79.65%
+confusion matrix : 
+[[1574, 143, 102, 114, 67, 0], [4, 1736, 98, 60, 102, 0], [64, 204, 1398, 287, 47, 0], [54, 216, 115, 1527, 88, 0], [16, 186, 24, 44, 1730, 0]]
+classify time: 11591 ms
+memory usage: 92956.0 KB
+================= landa=0.76 =================
+correct classify count = 8110.0
+accuracy = 81.1%
+confusion matrix : 
+[[1593, 47, 47, 183, 130, 0], [7, 1792, 58, 35, 108, 0], [98, 172, 1448, 217, 65, 0], [48, 217, 75, 1555, 105, 0], [16, 205, 21, 36, 1722, 0]]
+classify time: 11805 ms
+memory usage: 92956.0 KB
+================= landa=0.77 =================
+correct classify count = 8223.0
+accuracy = 82.23%
+confusion matrix : 
+[[1652, 55, 42, 101, 150, 0], [4, 1808, 36, 9, 143, 0], [68, 217, 1466, 171, 78, 0], [58, 228, 54, 1575, 85, 0], [20, 208, 18, 32, 1722, 0]]
+classify time: 11486 ms
+memory usage: 92956.0 KB
+================= landa=0.78 =================
+correct classify count = 8137.0
+accuracy = 81.37%
+confusion matrix : 
+[[1569, 27, 154, 120, 130, 0], [12, 1800, 51, 19, 118, 0], [97, 148, 1505, 163, 87, 0], [49, 183, 130, 1553, 85, 0], [26, 189, 25, 50, 1710, 0]]
+classify time: 11701 ms
+memory usage: 92956.0 KB
+================= landa=0.79 =================
+correct classify count = 8154.0
+accuracy = 81.54%
+confusion matrix : 
+[[1609, 111, 126, 84, 70, 0], [6, 1823, 49, 13, 109, 0], [88, 205, 1473, 146, 88, 0], [59, 210, 94, 1544, 93, 0], [25, 208, 28, 34, 1705, 0]]
+classify time: 11659 ms
+memory usage: 92956.0 KB
+================= landa=0.8 =================
+correct classify count = 8316.0
+accuracy = 83.16%
+confusion matrix : 
+[[1694, 83, 76, 95, 52, 0], [11, 1821, 29, 17, 122, 0], [69, 226, 1470, 177, 58, 0], [70, 210, 70, 1560, 90, 0], [21, 157, 20, 31, 1771, 0]]
+classify time: 12059 ms
+memory usage: 92956.0 KB
+================= landa=0.81 =================
+correct classify count = 8118.0
+accuracy = 81.18%
+confusion matrix : 
+[[1649, 162, 46, 96, 47, 0], [7, 1780, 44, 26, 143, 0], [74, 246, 1410, 190, 80, 0], [63, 212, 89, 1537, 99, 0], [19, 163, 34, 42, 1742, 0]]
+classify time: 12015 ms
+memory usage: 92956.0 KB
+================= landa=0.82 =================
+correct classify count = 8234.0
+accuracy = 82.34%
+confusion matrix : 
+[[1711, 45, 41, 88, 115, 0], [4, 1745, 37, 15, 199, 0], [86, 145, 1506, 149, 114, 0], [67, 213, 89, 1521, 110, 0], [19, 169, 25, 36, 1751, 0]]
+classify time: 12093 ms
+memory usage: 92956.0 KB
+================= landa=0.83 =================
+correct classify count = 8261.0
+accuracy = 82.61%
+confusion matrix : 
+[[1696, 51, 108, 93, 52, 0], [4, 1748, 59, 19, 170, 0], [84, 156, 1508, 172, 80, 0], [67, 175, 94, 1578, 86, 0], [18, 182, 27, 42, 1731, 0]]
+classify time: 11994 ms
+memory usage: 92956.0 KB
+================= landa=0.84 =================
+correct classify count = 8172.0
+accuracy = 81.72%
+confusion matrix : 
+[[1613, 99, 39, 153, 96, 0], [6, 1816, 38, 11, 129, 0], [115, 152, 1493, 194, 46, 0], [70, 242, 87, 1496, 105, 0], [16, 171, 22, 37, 1754, 0]]
+classify time: 11552 ms
+memory usage: 92956.0 KB
+================= landa=0.85 =================
+correct classify count = 8264.0
+accuracy = 82.64%
+confusion matrix : 
+[[1720, 120, 28, 105, 27, 0], [10, 1804, 28, 42, 116, 0], [106, 190, 1499, 166, 39, 0], [81, 246, 74, 1514, 85, 0], [26, 188, 18, 41, 1727, 0]]
+classify time: 11494 ms
+memory usage: 92956.0 KB
+================= landa=0.86 =================
+correct classify count = 8155.0
+accuracy = 81.55%
+confusion matrix : 
+[[1667, 41, 137, 112, 43, 0], [3, 1816, 31, 28, 122, 0], [78, 163, 1502, 200, 57, 0], [57, 282, 111, 1457, 93, 0], [23, 200, 19, 45, 1713, 0]]
+classify time: 11477 ms
+memory usage: 92956.0 KB
+================= landa=0.87 =================
+correct classify count = 8229.0
+accuracy = 82.29%
+confusion matrix : 
+[[1668, 118, 97, 93, 24, 0], [10, 1784, 51, 16, 139, 0], [90, 162, 1562, 140, 46, 0], [65, 215, 119, 1464, 137, 0], [27, 159, 29, 34, 1751, 0]]
+classify time: 11505 ms
+memory usage: 92956.0 KB
+================= landa=0.88 =================
+correct classify count = 8194.0
+accuracy = 81.94%
+confusion matrix : 
+[[1691, 43, 152, 75, 39, 0], [2, 1807, 44, 30, 117, 0], [141, 142, 1496, 176, 45, 0], [75, 231, 144, 1450, 100, 0], [20, 170, 28, 32, 1750, 0]]
+classify time: 11520 ms
+memory usage: 92956.0 KB
+================= landa=0.89 =================
+correct classify count = 8227.0
+accuracy = 82.27%
+confusion matrix : 
+[[1607, 163, 68, 98, 64, 0], [12, 1797, 33, 15, 143, 0], [99, 215, 1512, 135, 39, 0], [75, 194, 92, 1534, 105, 0], [27, 149, 19, 28, 1777, 0]]
+classify time: 11494 ms
+memory usage: 92956.0 KB
+================= landa=0.9 =================
+correct classify count = 8057.0
+accuracy = 80.57%
+confusion matrix : 
+[[1659, 45, 89, 127, 80, 0], [6, 1762, 40, 56, 136, 0], [169, 139, 1384, 256, 52, 0], [72, 240, 91, 1502, 95, 0], [35, 157, 19, 39, 1750, 0]]
+classify time: 11661 ms
+memory usage: 92956.0 KB
+================= landa=0.91 =================
+correct classify count = 7975.0
+accuracy = 79.75%
+confusion matrix : 
+[[1628, 48, 79, 212, 33, 0], [3, 1756, 41, 71, 129, 0], [101, 234, 1406, 212, 47, 0], [63, 271, 93, 1480, 93, 0], [17, 203, 31, 44, 1705, 0]]
+classify time: 12228 ms
+memory usage: 92956.0 KB
+================= landa=0.92 =================
+correct classify count = 8032.0
+accuracy = 80.32%
+confusion matrix : 
+[[1580, 149, 93, 116, 62, 0], [7, 1773, 37, 28, 155, 0], [88, 210, 1453, 175, 74, 0], [54, 229, 111, 1476, 130, 0], [19, 164, 22, 45, 1750, 0]]
+classify time: 11721 ms
+memory usage: 92956.0 KB
+================= landa=0.93 =================
+correct classify count = 7902.0
+accuracy = 79.02%
+confusion matrix : 
+[[1534, 148, 150, 154, 14, 0], [12, 1803, 33, 40, 112, 0], [104, 275, 1420, 170, 31, 0], [79, 280, 76, 1487, 78, 0], [20, 253, 22, 47, 1658, 0]]
+classify time: 12188 ms
+memory usage: 92956.0 KB
+================= landa=0.94 =================
+correct classify count = 7873.0
+accuracy = 78.73%
+confusion matrix : 
+[[1593, 37, 69, 213, 88, 0], [16, 1709, 34, 23, 218, 0], [65, 182, 1355, 227, 171, 0], [67, 242, 77, 1508, 106, 0], [25, 189, 43, 35, 1708, 0]]
+classify time: 11633 ms
+memory usage: 92956.0 KB
+================= landa=0.95 =================
+correct classify count = 8102.0
+accuracy = 81.02%
+confusion matrix : 
+[[1649, 53, 51, 213, 34, 0], [6, 1771, 26, 58, 139, 0], [96, 234, 1452, 155, 63, 0], [65, 274, 67, 1495, 99, 0], [21, 180, 20, 44, 1735, 0]]
+classify time: 11570 ms
+memory usage: 92956.0 KB
+================= landa=0.96 =================
+correct classify count = 7996.0
+accuracy = 79.96%
+confusion matrix : 
+[[1713, 38, 35, 135, 79, 0], [4, 1734, 43, 20, 199, 0], [108, 158, 1356, 297, 81, 0], [64, 247, 122, 1441, 126, 0], [24, 154, 33, 37, 1752, 0]]
+classify time: 11661 ms
+memory usage: 92956.0 KB
+================= landa=0.97 =================
+correct classify count = 8094.0
+accuracy = 80.94%
+confusion matrix : 
+[[1717, 77, 45, 115, 46, 0], [6, 1820, 44, 18, 112, 0], [100, 245, 1364, 259, 32, 0], [87, 254, 90, 1461, 108, 0], [27, 191, 18, 32, 1732, 0]]
+classify time: 11836 ms
+memory usage: 92956.0 KB
+================= landa=0.98 =================
+correct classify count = 7925.0
+accuracy = 79.25%
+confusion matrix : 
+[[1641, 89, 131, 67, 72, 0], [6, 1791, 34, 32, 137, 0], [164, 245, 1305, 238, 48, 0], [67, 255, 123, 1441, 114, 0], [25, 172, 22, 34, 1747, 0]]
+classify time: 11887 ms
+===================Best==========================
+best accuracy :0.8426
+landa : 0.68 
+best confusion : 
+[[1745, 35, 46, 112, 62, 0], [3, 1811, 47, 15, 124, 0], [68, 137, 1571, 139, 85, 0], [41, 212, 91, 1521, 135, 0], [11, 153, 19, 39, 1778, 0]]
